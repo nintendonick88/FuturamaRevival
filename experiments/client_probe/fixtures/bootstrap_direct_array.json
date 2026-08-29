@@ -1,0 +1,14 @@
+[
+  {
+    "salt": "local-preservation-salt-0001",
+    "signed_salt": "local-preservation-signed-salt-0001",
+    "success": true
+  },
+  {
+    "player_id": "local-player-0001",
+    "human_id": "local-human-0001",
+    "env": "prod",
+    "community_id": "local-community-0001",
+    "success": true
+  }
+]
